@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CutieBirdGame.unity
+    guid: 5323e9a14cc7d87469fa500d735a01a3
   m_configObjects: {}
